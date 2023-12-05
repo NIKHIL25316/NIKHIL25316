@@ -23,7 +23,7 @@ I'm passionate about data, driven by the thrill of turning raw data into meaning
 <h4 align="left">📫 How to reach me: nkl916@outlook.com or send a message on Linked In</h4>
 <h4 align="left"> ⚡ Fun fact: I love data</h4>
 <p align="right">
-<img src="[https://irp-cdn.multiscreensite.com/2b5a0c72/dms3rep/multi/mobile/Enhance.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdata-analytics-how-value-your-people-krysta-gough&psig=AOvVaw3kBBCY9xkdnXJLv8y-OYQF&ust=1701884064016000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCT86zq-IIDFQAAAAAdAAAAABAD)">
+<img src="https://cosmosgroup.sgp1.digitaloceanspaces.com/news/7168678_How%20to%20Be%20a%20Data%20Analyst%202022.png">
 </p>
 
 <h3 align="left">Connect with me:</h3>
