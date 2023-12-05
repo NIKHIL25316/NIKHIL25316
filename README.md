@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! 👋 I'm Nikhil N
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics-dashboard&psig=AOvVaw0dvhPfvEW-5b-Mvpgy0Bm_&ust=1701882999303000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjt8uzm-IIDFQAAAAAdAAAAABBH"/>
 
 I'm passionate about data, driven by the thrill of turning raw data into meaningful insights that empower informed decision-making and innovation. 
 
@@ -23,9 +22,9 @@ I'm passionate about data, driven by the thrill of turning raw data into meaning
 <h4 align="left"> 🌐 Visit my website: https://nikhil25316.github.io/<h4>
 <h4 align="left">📫 How to reach me: nkl916@outlook.com or send a message on Linked In</h4>
 <h4 align="left"> ⚡ Fun fact: I love data</h4>
+<p align="right">
 <img src="https://irp-cdn.multiscreensite.com/2b5a0c72/dms3rep/multi/mobile/Enhance.gif"/>
-
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
