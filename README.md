@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nikhil N</h1>
 <h3 align="left">📈 A passionate Data Analyst</h3>
 <h4 align="left"> 🔭 I’m currently working at Radi8 Labs</h4>
+<h4 align="left">📫 How to reach me: nkl916@outlook.com </h4>
 <h4 align="left"> ⚡ Fun fact: I love data</h4>
 
 <h3 align="left">Connect with me:</h3>
