@@ -22,9 +22,6 @@ I'm passionate about data, driven by the thrill of turning raw data into meaning
 <h4 align="left"> 🌐 Visit my website: https://nikhil25316.github.io/<h4>
 <h4 align="left">📫 How to reach me: nkl916@outlook.com or send a message on Linked In</h4>
 <h4 align="left"> ⚡ Fun fact: I love data</h4>
-<p width="50%">
-<img src="https://cosmosgroup.sgp1.digitaloceanspaces.com/news/7168678_How%20to%20Be%20a%20Data%20Analyst%202022.png">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
