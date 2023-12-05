@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! 👋 I'm Nikhil N
-<img src="https://irp-cdn.multiscreensite.com/2b5a0c72/dms3rep/multi/mobile/Enhance.gif"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics-dashboard&psig=AOvVaw0dvhPfvEW-5b-Mvpgy0Bm_&ust=1701882999303000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjt8uzm-IIDFQAAAAAdAAAAABBH"/>
 
 I'm passionate about data, driven by the thrill of turning raw data into meaningful insights that empower informed decision-making and innovation. 
 
