@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Nikhil N
 
-I'm a passionate Data Analyst with a strong background in [specific technologies or industries]. I love turning raw data into meaningful insights and compelling stories. 
+I'm passionate about data, driven by the thrill of turning raw data into meaningful insights that empower informed decision-making and innovation. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
