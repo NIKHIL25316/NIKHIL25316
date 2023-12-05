@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Nikhil N
 
 I'm passionate about data, driven by the thrill of turning raw data into meaningful insights that empower informed decision-making and innovation. 
-![Data Analysis](https://irp-cdn.multiscreensite.com/2b5a0c72/dms3rep/multi/mobile/Enhance.gif)
+<img src="https://irp-cdn.multiscreensite.com/2b5a0c72/dms3rep/multi/mobile/Enhance.gif"/>
 
 <h4 align="left"> 🌐 Visit my website: https://nikhil25316.github.io/<h4>
 <h4 align="left">📫 How to reach me: nkl916@outlook.com or send a message on Linked In</h4>
