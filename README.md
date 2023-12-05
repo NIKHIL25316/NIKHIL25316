@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="left">📈 A passionate Data Analyst</h3>
 <h4 align="left"> 🔭 I’m currently working at Radi8 Labs</h4>
 <h4 align="left"> 🌐 Visit my website: https://nikhil25316.github.io/<h4>
-<h4 align="left">📫 How to reach me: @nkl916@outlook.com or send a message on Linked In</h4>
+<h4 align="left">📫 How to reach me: nkl916@outlook.com or send a message on Linked In</h4>
 <h4 align="left"> ⚡ Fun fact: I love data</h4>
 
 <h3 align="left">Connect with me:</h3>
