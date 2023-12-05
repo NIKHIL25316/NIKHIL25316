@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! 👋 I'm Nikhil N
+<img src="https://i.pinimg.com/736x/e0/26/77/e02677625d9aad62e180f434d7fbd1b5.jpg"/>
 
 I'm passionate about data, driven by the thrill of turning raw data into meaningful insights that empower informed decision-making and innovation. 
 
